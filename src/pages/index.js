@@ -34,7 +34,7 @@ class RootIndex extends React.Component {
     )
   }
 }
-<iframe src=https://public.tableau.com/views/OlympicGoldMetalsByCountry/Sheet1?:showVizHome=no&:embed=true >
+
 
 export default RootIndex
 
